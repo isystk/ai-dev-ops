@@ -1,0 +1,9 @@
+.history
+.playwright-mcp
+tools/ga-reporter/credentials/*.json
+__pycache__/
+*.py[cod]
+tools/ga-reporter/credentials/oauth-token*
+tmp
+.tmp*
+HANDOVER.md
